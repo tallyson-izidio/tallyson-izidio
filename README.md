@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Tallyson Izidio
 
-<!--
-**tallyson-izidio/tallyson-izidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** na **Universidade do Estado do Rio Grande do Norte (UERN)**. Atualmente, estou focado em adquirir conhecimentos em áreas de desenvolvimento de software, com interesse especial em **Engenharia de Software**, **Ciência de Dados**, **Machine Learning** e **Deep Learning**.
 
-Here are some ideas to get you started:
+## 🎓 Vida Acadêmica
+- Membro do **Programa de Educação Tutorial (PETCC)** de Ciência da Computação.
+- Presidente (2024-2025) da **D3TEC**, a primeira **empresa júnior** de Ciência da Computação do Rio Grande do Norte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Experiências e Conhecimentos
+- **Tecnologias Educacionais**: Experiência consolidada no desenvolvimento e aplicação de tecnologias para a educação.
+- **Gestão de Projetos de TI**: Atuação em liderança e gestão de projetos tecnológicos.
+- **Sistemas Embarcados e IoT**: Conhecimentos básicos em desenvolvimento de soluções embarcadas e Internet das Coisas.
+
+## 💻 Tecnologias e Ferramentas
+- **Python**: Foco na consolidação de conhecimentos para aplicações em Ciência de Dados, Machine Learning e Deep Learning.
+- **Django**: Experiência com desenvolvimento web; atualmente participando do desenvolvimento de um **totem de autoatendimento** para uma empresa de telecomunicações.
+
+---
+
+### Vamos conectar?
+Sinta-se à vontade para entrar em contato comigo para trocarmos ideias, projetos e experiências!
+
